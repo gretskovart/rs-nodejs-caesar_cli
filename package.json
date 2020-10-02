@@ -1,0 +1,32 @@
+{
+  "name": "rs-nodejs-caesar_cli",
+  "version": "1.0.0",
+  "description": "Caesar cipher CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gretskovart/rs-nodejs-caesar_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "caesar-cli": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/gretskovart/rs-nodejs-caesar_cli/issues"
+  },
+  "homepage": "https://github.com/gretskovart/rs-nodejs-caesar_cli#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
