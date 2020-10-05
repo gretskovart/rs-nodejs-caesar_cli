@@ -6,6 +6,12 @@ Implement CLI tool that will encode and decode a text by [Caesar cipher](https:/
 
 Caesar cipher CLI tool requires [Node.js](https://nodejs.org/) Node v12.18.0 (LTS) to run.
 
+Open the project:
+
+```sh
+$ cd caesar-cli
+```
+
 Install the dependencies:
 
 ```sh
