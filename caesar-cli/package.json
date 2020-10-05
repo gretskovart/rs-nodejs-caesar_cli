@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "caesar-cli": "index.js"
+    "caesar-cli": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/gretskovart/rs-nodejs-caesar_cli/issues"
